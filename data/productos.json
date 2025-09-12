@@ -1,0 +1,18 @@
+[
+  {
+    "id": "b90d7369-62bb-4bfa-a44b-c8632cfbe7dd",
+    "producto": "Tablet"
+  },
+  {
+    "id": "f8632512-f5e1-4c2d-aa60-a5df6398dddd",
+    "producto": "Notebook"
+  },
+  {
+    "id": "f8632512-f5e1-4c2d-aa60-dads56398dddd",
+    "producto": "Celular"
+  },
+  {
+    "id": "92c2710a-d836-4437-b997-e599e974d8dd",
+      "producto": "Camara profesional"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Rosario",
+    "email": "rosario.burs@davinci.edu.ar",
+    "password": "psswd123"
+  },
+  {
+    "id": "b348d8a9-6264-4bf5-9439-838f704a08d9",
+    "nombre": "Agostina",
+    "email": "agostina.burs@davinci.edu.ar",
+    "password": "1234"
+  },
+  {
+    "id": "54ccef64-c5aa-4f44-aa43-3c254bf62d3d",
+    "nombre": "Daniel",
+    "email": "daniel@davinci.edu.ar",
+    "password": "1234abc"
+  }
+]
